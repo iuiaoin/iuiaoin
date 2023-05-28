@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Declan, a caffeine-fueled coding wizard who's fluent in JavaScript💻, believes in turning pizza🍕 into code, and is currently attempting to teach my cat🐈 JS.
+I'm Declan, a caffeine-fueled coding wizard who's fluent in JavaScript, believes in turning pizza into code, and is currently attempting to teach my cat JS.🐈🍕💻
 
 [![Declan's GitHub Stats][GITHUB_STATS_SRC]][GITHUB_PROFILE]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
